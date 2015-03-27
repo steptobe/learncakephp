@@ -43,6 +43,7 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
         <div class="header-image">
             <?= $this->Html->image('http://cakephp.org/img/cake-logo.png') ?>
             <h1>Get the Ovens Ready</h1>
+            <p>test</p>
         </div>
     </header>
     <div id="content">
